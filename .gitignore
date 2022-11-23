@@ -1,0 +1,6 @@
+.idea
+.obsidian
+*.iml
+/vendor
+
+

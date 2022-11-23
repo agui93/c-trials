@@ -1,0 +1,4 @@
+*.o
+add/*.o
+sub/*.o
+cau
