@@ -12,11 +12,11 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 configure_file(TutorialConfig.h.in TutorialConfig.h)
 
 
-## 类型:SEND_ERROR,SATUS,FATAL_ERROR
+## 类型:SEND_ERROR, STATUS, FATAL_ERROR
 MESSAGE(STATUS "This is BINARY dir " ${PROJECT_BINARY_DIR})
 MESSAGE(STATUS "This is SOURCE dir " ${PROJECT_SOURCE_DIR})
 
-# 生成可执行文件
+
 # add the executable
 add_executable(Tutorial tutorial.cxx)
 
