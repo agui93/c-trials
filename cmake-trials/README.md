@@ -45,6 +45,15 @@ ctest -C Release -VV
 | [step12](./steps/step4) |  Adding Export Configuration     |
 
 
+# Other
+https://github.com/Kitware/CMake/tree/master/Help/guide/tutorial
+
+https://www.cnblogs.com/52php/p/5681745.html
+
+https://github.com/chaneyzorn/CMake-tutorial
+
+https://cmake.org/cmake/help/git-stage/guide/tutorial/index.html
+
 
 
 
